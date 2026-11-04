@@ -238,7 +238,7 @@ body {
 /* ==========================================================
    UTILITY
    ========================================================== */
-.hidden { display: none !important; }
+.hidden { display: none !important; } /*overides*/
 
 @media (max-width: 420px) {
   .stat-grid { grid-template-columns: 1fr; }
